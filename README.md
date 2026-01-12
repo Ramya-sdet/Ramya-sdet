@@ -44,8 +44,6 @@ I want to understand the **logic** that created them.
 ---
 
 
-> "I haven't failed. I've just found 10,000 ways that won't work." — *The mindset of a true Tester.*## Hi there 👋
+> ⚡"I haven't failed. I've just found 10,000 ways that won't work." — *The mindset of a true Tester.*## Hi there 👋
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
