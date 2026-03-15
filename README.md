@@ -1,49 +1,6 @@
-# Hello! I'm Ramya 🚀 
-
-### 💡 Aspiring SDET | Logic Explorer
-I’m a code-enthusiast who looks at a "Submit" button and wonders,
-*"What happens if I click this ten times in a second?"* I am deeply passionate about the art of **Software Testing**.
-While others focus solely on building features, I focus on making those features **invincible**. 
-I love the puzzle of finding edge cases and the satisfaction of writing a script that catches a mistake.
-
----
-
-### 🧩 My Journey into Quality
-I am currently immersed in mastering the foundations of automated testing. I don't just want to find bugs; 
-I want to understand the **logic** that created them.
-
-* **🔍 Exploration:** Learning how to navigate the DOM and interact with elements like a pro.
-* **✍️ Scripting:** Writing clean, readable code in Java to simulate user behavior.
-* **📐 Precision:** Learning how to write assertions that actually mean something.
-* **🛠️ Tooling:** Getting hands-on with **Selenium**  to bring automation to life.
-
----
-
-### 🛠️ What I'm Learning & Using
-* **Language:**  Java (The backbone of my logic)
-* **Web Testing:** Selenium WebDriver (Turning manual steps into automated magic)
-* **Framework Basics:** Organizing my code using TestNG patterns.
-* **Version Control:** Git (Keeping my experiments safe and organized)
-
----
-
-### 🌟 Why I Love Testing
-1. **The "Gotcha" Moment:** There is no better feeling than finding an edge case that no one else saw.
-2. **Clean Code:** I believe a test suite should be as beautiful and organized as the app itself.
-3. **User Advocacy:** I represent the user. If it's broken for them, it's my job to find it first.
-
----
-
-### 📈 What's happening in my Labs...
-- 🏗️ Building a **"Project-A-Day"** habit to sharpen my automation scripts.
-- 📖 Deep-diving into **Object-Oriented Programming** to build better test structures.
-- 🧪 Practicing on "Broken" sites to improve my debugging skills.
-- - 🧪 Experimenting with **API endpoints** to understand data integrity.
-- 📚 Researching how **AI models** can be validated for bias and accuracy.
-
----
+# 💫 About Me:
+Hi there 👋<br>I’m a quality-driven automation enthusiast who sees software not just as something to build, but something to challenge, validate, and strengthen. While many focus on creating features, I focus on ensuring those features are reliable, resilient, and ready for real users.<br>Software testing, to me, is both engineering and investigation—exploring edge cases, questioning assumptions, and designing automated checks that make applications stronger with every iteration.<br><br>🧩 My Journey into Quality<br>I’m currently focused on mastering the foundations of automated testing. My goal isn’t only to detect bugs but to understand the logic, architecture, and behavior that cause them.<br><br>🔍 Exploration: Learning how to navigate the DOM and interact with web elements efficiently.<br><br>✍️ Scripting: Writing clean, readable automation scripts in Java to simulate realistic user behavior.<br><br>📐 Precision: Practicing meaningful assertions that validate application behavior with accuracy.<br><br>🛠️ Tooling: Using Selenium to transform manual testing steps into reliable automated workflows.<br><br>🛠️ What I'm Learning & Using<br>Language<br>Java – strengthening programming logic and automation scripting.<br>Web Automation<br>Selenium WebDriver – building automated tests for web applications.<br>Framework Basics<br>TestNG – structuring test execution and improving test organization.<br>Version Control<br>Git – tracking code changes and managing automation experiments.<br><br>🌟 Why I Love Testing<br>The Discovery Moment<br>Finding an edge case that reveals a hidden flaw in the system.<br>Structured Automation<br>Designing test suites that are clean, maintainable, and scalable.<br>User Advocacy<br>Representing the end user and ensuring applications work reliably in real-world scenarios.<br>📈 What's Happening in My Lab<br>🏗️ Building a “Project-a-Day” habit to strengthen automation scripting skills.<br>📖 Deep-diving into Object-Oriented Programming to design better automation frameworks.<br>🧪 Practicing on intentionally buggy or imperfect applications to sharpen debugging skills.<br>🔗 Exploring API endpoints to understand backend behavior and data integrity.<br>🤖 Researching how AI and machine learning models can be validated for accuracy and bias.<br>⭐ Always curious, always testing, always learning.<br><br>
 
 
-> ⚡"I haven't failed. I've just found 10,000 ways that won't work." — *The mindset of a true Tester.
-
-
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
